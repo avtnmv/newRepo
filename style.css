@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    overflow-x: hidden;
 }
 
 @font-face {
@@ -29,7 +30,6 @@ body {
     background-position: center;
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
 }
 
 .container h1{
