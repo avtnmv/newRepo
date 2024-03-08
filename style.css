@@ -44,7 +44,7 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    padding-top: 270px;
+    padding-top: 320px;
 }
 .container p{
     font-family:'Benzin';
@@ -59,16 +59,19 @@ body {
     background: linear-gradient(to right, rgba(77, 76, 64, 0.6), rgba(77, 76, 64, 1));
     border: 1px solid #4D4C40;
     border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .link{
     width: 310px;
-    height: 100px;
+    height: 90px;
     background: linear-gradient(#A48940, #FFF96C, #A48940);
     display: flex;
     justify-content: space-around;
     align-items: center;
     font-family: 'Benzin';
-    font-size: 30px;
+    font-size: 33px;
     border-radius: 12px;
     cursor: pointer;
 
